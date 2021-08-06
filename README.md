@@ -6,3 +6,7 @@ The requirements for this projects were:
 - used the mouse arrow to hover over objects and identify it
 - create randonly generated rooms, hallways, and a door
 - user should have the ability to navigate the world using WASD keys 
+
+The goal of this game is to:
+- obtain all the 'items' displayed on the randomly generated map
+- whilst doing so, do not bump into 'enemies', else you will lose your life. 
