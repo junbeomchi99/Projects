@@ -10,3 +10,5 @@ The requirements for this projects were:
 The goal of this game is to:
 - obtain all the 'items' displayed on the randomly generated map
 - whilst doing so, do not bump into 'enemies', else you will lose your life. 
+
+Tech: Java, IntellJ, StdDraw
