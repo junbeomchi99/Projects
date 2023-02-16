@@ -1,4 +1,4 @@
-# snapbody_mobile
+# SnapBody
 
 SNAPBODY MOBILE  
 
